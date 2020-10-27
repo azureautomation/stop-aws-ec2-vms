@@ -1,0 +1,20 @@
+{
+    "Author": "Joe Levy_",
+    "ContentSize": 1036,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-aws-ec2-vms/master/Stop-AwsVM.ps1",
+    "DownloadCount": 1068,
+    "Id": "Stop-AWS-EC2-VMs-1c7b1776",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 587,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-9-10T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Stops one or more AWS EC2 VMs. Can be hooked up to a schedule to stop VMs continually at certain times of day.",
+    "Title": "Stop AWS EC2 VMs",
+    "UpdatedDate": "2015-9-10T00:00:00",
+    "Url": "https://github.com/azureautomation/stop-aws-ec2-vms",
+    "UserTags": "AWS, AWS Powershell, AWS EC2"
+}
